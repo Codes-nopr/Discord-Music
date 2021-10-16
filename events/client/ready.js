@@ -13,7 +13,7 @@ module.exports = async (client) => {
     slashCommands.map(async (value) => {
         const file = require(value);
         if (!file?.name) return;
-        console.log(`Pushed all slash commands, registering to guilds may take a while.`);
+        console.log(`Registering slash command: ${file.name}.js`);
         client.slashCommands.set(file.name, file);
         arrayOfSlashCommands.push(file);
     });

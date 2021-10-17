@@ -1,7 +1,7 @@
 const { MessageEmbed } = require('discord.js');
 
 module.exports = {
-    name: 'save',
+    name: 'yoink',
     description: 'Save current track to DMS',
     cooldown: 2,
 

@@ -1,5 +1,5 @@
 # Discord Music
-A lavalink based Discord Music bot, provides high quality music on your voice channels.
+A lavalink based Discord Music bot, provides high quality music inside your voice channels.
 
 # Info
 I've used erela.js as lavalink client to connect to lavalink server, in future erela.js can be updated so make sure you've install updated version of erela.js. For Discord client, used discord.js v13.3 development branch, you can use v13 previous versions. (Note: This bot doesn't made for support discord.js v12, make sure you've installed v13 along with nodejs v16+ and npm 7+ requirements.)

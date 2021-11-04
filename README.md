@@ -8,7 +8,7 @@ I've used erela.js as lavalink client to connect to lavalink server, in future e
 Simply clone the GitHub repository and after clone open terminal on that folder and type `npm i`, it should install all requirements which mentioned in package.json file. After installtion done, put your lavalink server "host / IP, port, password" to [nodes.json](https://github.com/Dacydl/Discord-Music/blob/main/json/nodes.json) file and run `node MelodyTune.js` (MelodyTune is owned by me, please don't give same name of your bot whenever you using this repo.)
 
 # Issues and PR
-All issues and PR will be submit along this GitHub repository, for any other issue or help you may join my Discord server instead. [*Join me!*](https://discord.gg/2wr59akJE6)
+All issues and PR will be submit along this GitHub repository, for any other issue or help you may join my Discord server instead. [*Join me!*](https://discord.gg/HrE5b6QXem)
 
 # License
 All terms and conditions refer to [BSD 3-Clause](https://github.com/Dacydl/Discord-Music/blob/main/LICENSE) License.
